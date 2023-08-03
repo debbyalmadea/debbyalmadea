@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Debby</h1>
-<p align="start">A passionate computer science undergrads with interest in software engineering, web development, and mobile development</p>
+<p align="start">A passionate computer science undergrad with interest in software engineering, web development, and mobile development</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debbyalmadea" alt="debbyalmadea" /></a> </p>
 
